@@ -1,3 +1,3 @@
-FROM ghcr.io/sarperavci/cloudflarebypassforscraping:latest
+FROM ghcr.io/flaresolverr/flaresolverr:latest
 
-EXPOSE 8000
+EXPOSE 8191
