@@ -1,7 +1,7 @@
 services:
   - name: flaresolverr
     type: web
-    env: docker
+    env: docker-compose.yml
     repo: https://github.com/your-username/your-repo
     region: oregon
     plan: starter
