@@ -1,3 +1,3 @@
-FROM ghcr.io/nlevee/simple-cloudflare-solver:main
+FROM ghcr.io/thephaseless/byparr:latest
 
-EXPOSE 8000
+EXPOSE 8191
